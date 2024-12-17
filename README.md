@@ -8,3 +8,5 @@
   <li>Boostrap Versi 4</li>
   <li>Bisa berjalan di PHP 8.4</li>
 </ul>
+<p>By Pudin Saepudin - Ciamis, Jawa Barat</p>
+<p>ThankYou</p>
